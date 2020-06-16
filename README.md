@@ -1,2 +1,0 @@
-# httpget
-httpget provide info
